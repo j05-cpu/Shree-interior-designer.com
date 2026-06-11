@@ -1,0 +1,6 @@
+{
+  "name": "Shree Interior Designer",
+  "description": "Cinematic ultra-luxury digital showcase for Shree Interior Designer in Navi Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
